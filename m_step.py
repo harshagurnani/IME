@@ -1,6 +1,4 @@
 import numpy as np
-import sys
-sys.path.insert(0, '/Users/harshagurnani/Documents/GitHub/VAEPytorch/IME')
 from helpers.utils import *
 
 def fast_ime_mstep_MParams(E_X_posterior, COV_X_posterior, const):

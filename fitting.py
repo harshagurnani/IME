@@ -1,7 +1,6 @@
 import time
 import numpy as np
 import sys, pathlib
-sys.path.insert(0, np.str_(pathlib.Path(__file__).parent.resolve() ) )
 from helpers.utils import compute_angular_errors
 from e_step import *
 from m_step import *

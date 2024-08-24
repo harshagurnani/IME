@@ -1,7 +1,5 @@
 import numpy as np
 from numpy.linalg import inv, slogdet
-import sys
-sys.path.insert(0, '/Users/harshagurnani/Documents/GitHub/VAEPytorch/IME')
 from helpers.assignopts import assignopts
 from helpers.utils import velime_assemble_data, velime_x_index, multiprod, multitransp
 

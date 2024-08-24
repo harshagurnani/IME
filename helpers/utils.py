@@ -1,7 +1,7 @@
 import numpy as np
 from helpers.assignopts import assignopts
 import sys
-sys.path.insert(0, '/Users/harshagurnani/Documents/GitHub/VAEPytorch/IME')
+sys.path.insert(0, '../')
 #from scipy.stats import mode
 from statistics import mode
 
